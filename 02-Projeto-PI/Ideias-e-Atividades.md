@@ -67,13 +67,15 @@ Dois segmentos identificados pela pesquisa (ver personas completas em [[Contexto
 - [ ] Definir diferencial em uma frase clara (usar o já identificado no artigo como ponto de partida)
 - [ ] Decidir modelo de monetização considerando os dois segmentos de cliente
 
-**Por que estamos adaptando o Canvas:** a equipe decidiu que o Canvas acadêmico (feito para o PI) precisa de ajustes para representar melhor a lógica de negócio pensando no Supernova — principalmente porque a pesquisa de usuário revelou um segundo segmento de cliente (profissionais de educação física) que o Canvas original não cobre.
+**Decisão da equipe sobre o público (registrada em conversa):** em vez de escolher entre "só praticante" ou "só profissional", ficou definido um **segmento primário** (praticante autônomo — dor mais validada, linha que já vem do PI) com o **profissional como segmento de expansão/fase 2**, funcionando como segundo canal de receita e de distribuição, não como um segundo produto. A proposta de valor central segue única: "democratizar a supervisão postural em tempo real".
 
-**Rascunho do Canvas adaptado (resumo — versão completa em [[Contexto-do-Projeto-PostVision]]):**
-- **Segmentos:** (1) praticantes autônomos [B2C] e (2) profissionais de educação física / personal trainers [B2B2C].
-- **Proposta de valor:** segurança/autonomia com correção em tempo real (praticantes) · dados objetivos de evolução do aluno para consultoria remota (profissionais).
+**Rascunho do Canvas adaptado (resumo — versão completa com os 9 blocos em [[Contexto-do-Projeto-PostVision]]):**
+- **Segmento primário:** praticantes autônomos [B2C]. **Segmento de expansão:** profissionais de educação física / personal trainers [B2B2C].
+- **Proposta de valor:** núcleo igual para os dois (correção em tempo real + relatório de evolução); camada extra para profissionais (dados objetivos para validar evolução de alunos à distância).
+- **Receita:** assinatura B2C (já prevista) + plano profissional B2B2C novo, com cuidado para não repetir a percepção de "preço fora da realidade" que os próprios personal trainers relatam sobre a concorrência.
+- **Parcerias:** academias/personal trainers/fisioterapeutas viram também canal de distribuição para o público B2C, não só clientes do plano profissional.
 - **Diferencial (do artigo):** correção postural em tempo real + estatísticas personalizadas de evolução — combinação que os concorrentes/projetos acadêmicos comparados não oferecem juntos.
-- **Pontos de atenção:** risco de desuso do app (retenção), possível objeção de preço também no segmento profissional.
+- **Pontos de atenção:** risco de desuso do app (retenção); priorizar validar o núcleo B2C antes de investir pesado no segmento de expansão.
 
 ---
 

@@ -164,29 +164,51 @@ Este é o Canvas registrado no artefato do PI, usado como ponto de partida:
 
 ## Business Model Canvas · rascunho adaptado para o Supernova
 
-> ✏️ **Isto é um rascunho de ponto de partida**, não uma versão final — a equipe decidiu adaptar o Canvas acadêmico à trilha Supernova, com uma leitura mais "startup" (dois segmentos de cliente, monetização e concorrência mais explícitas). Revisar e ajustar durante o Módulo 2 (ver [[Modulo-2-Business-Model-Canvas]] para o conteúdo da aula).
+> ✏️ **Decisão da equipe (registrada em conversa):** em vez de escolher entre "só praticante" ou "só profissional", o Canvas adota **um segmento primário** (praticante autônomo, que é a dor mais validada e a linha que já vem do PI) e trata o **profissional como segmento de expansão / segundo canal de receita**, não como um segundo produto. A proposta de valor central continua sendo uma só: "democratizar a supervisão postural em tempo real" — o profissional é uma forma de monetizar e escalar essa mesma proposta, não um problema diferente a resolver. Revisar e ajustar durante o Módulo 2 (ver [[Modulo-2-Business-Model-Canvas]] para o conteúdo da aula).
 
-**Segmentos de clientes (proposta com 2 segmentos, em vez de 1):**
-1. **Praticantes autônomos (B2C)** — pessoas que treinam sozinhas sem orientação profissional (perfil leigo): iniciantes, pessoas com restrição orçamentária, pessoas com histórico de lesão ou idade mais avançada.
-2. **Profissionais de educação física / personal trainers (B2B2C)** — usam a ferramenta para monitorar e validar remotamente a evolução postural de seus alunos.
+### Os 9 blocos
 
-**Proposta de valor (por segmento):**
-- Para praticantes autônomos: segurança e autonomia para treinar sozinho, com correção postural em tempo real e alertas imediatos, reduzindo o medo de lesão.
-- Para profissionais: apoio ao ensino remoto, com dados objetivos (gráficos, métricas de evolução) que ajudam a validar a evolução do aluno e suprir a dificuldade de corrigir postura à distância.
+**1. Segmentos de clientes**
+- **Primário:** praticantes autônomos — pessoas que treinam sozinhas sem orientação profissional (iniciantes, restrição orçamentária, histórico de lesão, idade mais avançada). Ex.: Isabella, Lucas, "Fulana".
+- **Expansão (fase 2):** profissionais de educação física / personal trainers, que usam o app como ferramenta de trabalho com seus alunos. Ex.: "Betrano".
 
-**Concorrência a mapear no Módulo 2 (Videoaula 2 — Análise de Concorrência):**
-- Direta: apps de treino já consolidados (citados como ameaça na SWOT).
-- Indireta/acadêmica: os três projetos citados no Estado da Arte do artigo (Gonçalves et al., Passos/POSEXAU, Yang e Chen/Pose Trainer) — nenhum comercial ainda, mas mostram o "estado da técnica".
+**2. Proposta de valor**
+- Núcleo (vale para os dois segmentos): correção postural em tempo real via câmera do celular, com alertas imediatos e relatório de evolução — reduz o risco de lesão e a dependência de supervisão presencial cara.
+- Camada extra para o segmento de expansão: dados objetivos (gráficos, métricas) que ajudam o profissional a validar a evolução do aluno e a corrigir postura à distância — o app dá ao personal trainer uma capacidade que ele hoje não tem sozinho.
 
-**Pontos de atenção levantados pela pesquisa (que o Canvas acadêmico ainda não cobre):**
-- Risco de **desuso do app** (churn) após o período inicial → pensar em bloco de relacionamento/retenção com mais peso (histórico de evolução, alertas contínuos).
-- Possível objeção de preço também no segmento profissional (personal trainers já reclamam de valores "fora da realidade" cobrados por outros personais — cuidado para o próprio PostVision não cair nessa percepção ao precificar o plano B2B2C).
-- Estrutura de custos e fontes de receita da versão acadêmica (assinatura mensal/anual, planos personalizados) precisam ser revisadas considerando dois segmentos de pagamento em vez de um.
+**3. Canais**
+- App mobile, website institucional, marketing digital (redes sociais, conteúdo sobre prevenção de lesão) — canal principal para o praticante autônomo.
+- Canal de expansão: contato direto com academias, personal trainers e fisioterapeutas (parcerias) — já indicado como oportunidade na SWOT acadêmica.
 
-**Itens que seguem valendo do Canvas original (ainda não há motivo pra mudar):**
-- Recursos-chave (equipe técnica, infraestrutura de computação, banco de dados de imagens/vídeos, hardware para testes).
-- Atividades-chave (desenvolvimento contínuo, coleta/processamento de dados, algoritmos de visão computacional, testes e validação).
-- Canais (app mobile, website, marketing digital) — mas vale revisar se personal trainers são atingidos pelos mesmos canais que o público leigo.
+**4. Relacionamento com cliente**
+- Praticante: suporte contínuo pelo app, notificação push, e-mail, redes sociais.
+- Profissional: relacionamento mais próximo/consultivo — o personal trainer que assina se torna também um canal de distribuição (cada personal pode trazer vários alunos usando o app), então vale tratá-lo quase como um parceiro, não só como assinante.
+
+**5. Fontes de receita**
+- Assinatura mensal/anual do praticante autônomo (plano B2C, como já estava no Canvas acadêmico).
+- **Novo:** plano profissional/B2B2C para personal trainers, com preço mais alto (ferramenta de trabalho, não gasto pessoal) e possivelmente por número de alunos monitorados — a definir com a equipe.
+- Atenção: personal trainers já reclamam de preços "fora da realidade" cobrados por outros profissionais — cuidado para o plano B2B2C do PostVision não cair nessa mesma percepção.
+
+**6. Recursos-chave** *(sem mudança relevante em relação ao Canvas acadêmico)*
+Equipe técnica, infraestrutura de computação, banco de dados de imagens/vídeos, softwares e frameworks, hardware para testes.
+
+**7. Atividades-chave** *(sem mudança relevante)*
+Desenvolvimento contínuo do software, coleta/processamento de dados, desenvolvimento de algoritmos de Visão Computacional, teste e validação, design de interface, manutenção.
+
+**8. Parcerias-chave**
+- Empresas de tecnologia/IA, empresas do ramo fitness, influenciadores fitness (já previstos).
+- **Novo, ligado à expansão:** academias, personal trainers e fisioterapeutas como parceiros de distribuição — não só como clientes, mas como canal para chegar a mais praticantes autônomos.
+
+**9. Estrutura de custos** *(sem mudança relevante)*
+Hospedagem de aplicativo e IA (nuvem), marketing e publicidade. Vale reavaliar se o segmento de expansão (profissional) traz custo adicional relevante (ex.: suporte consultivo, dashboards extras).
+
+### Concorrência a mapear no Módulo 2 (Videoaula 2 — Análise de Concorrência)
+- Direta: apps de treino já consolidados (citados como ameaça na SWOT), tanto os voltados ao praticante final quanto eventuais plataformas usadas por personal trainers para acompanhar alunos.
+- Indireta/acadêmica: os três projetos citados no Estado da Arte do artigo (Gonçalves et al., Passos/POSEXAU, Yang e Chen/Pose Trainer) — nenhum comercial ainda, mas mostram o "estado da técnica" e nenhum combina tempo real + estatísticas de evolução.
+
+### Pontos de atenção levantados pela pesquisa
+- Risco de **desuso do app** (churn) após o período inicial → o bloco de relacionamento/retenção (histórico de evolução, alertas contínuos) importa tanto quanto a aquisição de clientes.
+- O segmento de expansão só deve ser priorizado depois que o núcleo B2C estiver validado — tratar como "fase 2" evita diluir o foco do pitch e do MVP.
 
 ---
 
