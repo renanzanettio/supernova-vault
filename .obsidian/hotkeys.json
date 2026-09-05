@@ -1,0 +1,10 @@
+{
+  "zenmode:toggle-zen-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ]
+}

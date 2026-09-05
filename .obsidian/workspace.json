@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "51647dca04b94ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "182819e2cc613362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6194f7918fb5a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Laboratório de Praticas/reuniao 01-09-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "reuniao 01-09-2026"
+            }
+          },
+          {
+            "id": "4f3bbdad19852ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Projeto-PI/Ideias-e-Atividades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideias-e-Atividades"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e555a73133cbdfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3773af6e0a925d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d47f3ef9b7bf505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ece8621f5680e710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8cdbdf95089ddd11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c2a9bd22276acc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8838f1f0dc620fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b61ea12805cba83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desenvolvimento Web 4/Aula 01 - Revisão JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c31a1e1ae3cf0cd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "ce307e4be8f77631",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1c26467f15c48c6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "af9f550fd78dabeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "0880ccf557ebb535",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "zenmode:Toggle zen mode": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4f3bbdad19852ad7",
+  "lastOpenFiles": [
+    "02-Projeto-PI/PostVision-Pesquisa-Usuario.pdf",
+    "02-Projeto-PI/PostVision-Artigo-Cientifico.pdf",
+    "02-Projeto-PI/PostVision-Artefato-PI.pdf",
+    "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
+    "Home.md",
+    "02-Projeto-PI/Ideias-e-Atividades.md",
+    "01-Conteudo-Modulos/Modulo-2-Business-Model-Canvas.md",
+    "00-Contexto/Contexto-Geral.md",
+    "01-Conteudo-Modulos/Slides/Mod2-Videoaula5-DeepTech.pdf",
+    "01-Conteudo-Modulos/Slides/Mod2-Videoaula4-Bioeconomia.pdf",
+    "01-Conteudo-Modulos/Slides/Mod2-Videoaula3-Negocios-de-Impacto.pdf",
+    "01-Conteudo-Modulos/Slides/Mod2-Videoaula2-Analise-de-Concorrencia.pdf",
+    "01-Conteudo-Modulos/Slides/Mod2-Videoaula1-Business-Model-Canvas.pdf",
+    "Laboratório de Praticas/reuniao 01-09-2026.md",
+    "Laboratório de Praticas/Sem título.md",
+    "schema_0.png",
+    "Laboratório de Praticas/documentacao-banco-dados.md",
+    "Laboratório de Praticas/pautas da primeira reunião (com questionamentos claude).md",
+    "Laboratório de Praticas/banco-de-dados-lp.png",
+    "KANBAN - Atividade 01.md",
+    "banco-de-dados-lp 1.png",
+    "Laboratório de Praticas/Documentação do Banco de Dados — Sistema de Tickets (MVP).md",
+    "Laboratório de Praticas/trash/slides-apresentacao.excalidraw.md",
+    "Laboratório de Praticas/trash/projeto-lp.excalidraw.md",
+    "Laboratório de Praticas/trash/lp-prefeitura-pesquisa.excalidraw.md",
+    "Laboratório de Praticas/trash/backend-banco-dados.excalidraw",
+    "Laboratório de Praticas/trash/anotacoes com fred.md",
+    "Laboratório de Praticas/trash",
+    "schema (1).png",
+    "schema.png",
+    "Laboratório de Praticas/backend-banco-dados.excalidraw",
+    "Laboratório de Praticas/anotações gerais.md",
+    "Laboratório de Praticas/anotacoes com fred.md",
+    "Laboratório de Praticas/lp-prefeitura-pesquisa.excalidraw.md",
+    "meu modelo.png",
+    "Experiência do Usuário/Aula 02 - Como fazer UX.md",
+    "Laboratório de Praticas/slides-apresentacao.excalidraw.md",
+    "Laboratório de Praticas/Reunião 27-08.md",
+    "Laboratório de Praticas/projeto-lp.excalidraw.md",
+    "Integração e Entrega Contínua/Aula 03 - Github Actions.md",
+    "Estatística Aplicada/Aula 04 -.md",
+    "Laboratório de Praticas/pautas da primeira reuniao.md"
+  ]
+}
