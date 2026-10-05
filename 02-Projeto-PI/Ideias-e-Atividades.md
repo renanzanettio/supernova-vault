@@ -58,41 +58,85 @@ Dois segmentos identificados pela pesquisa (ver personas completas em [[Contexto
 ---
 
 ## Módulo 2 · Business Model Canvas
-📎 Conteúdo da aula: [[Modulo-2-Business-Model-Canvas]] · Canvas acadêmico + rascunho adaptado: [[Contexto-do-Projeto-PostVision]]
+📎 Conteúdo da aula: [[Modulo-2-Business-Model-Canvas]] · Canvas atual completo: [[Contexto-do-Projeto-PostVision]]
 
 **Atividades do módulo:**
-- [x] Canvas acadêmico (versão PI) já existe e está registrado como referência
-- [ ] Revisar e fechar o Canvas adaptado ao Supernova com a equipe (rascunho já iniciado)
+- [x] Canvas acadêmico (versão PI) registrado como referência histórica
+- [x] Canvas adaptado ao Supernova fechado pela equipe (ver [[PostVision-Canvas-Atual.pdf]])
 - [ ] Mapear concorrentes diretos e indiretos (Videoaula 2) — incluir concorrência para o segmento profissional (B2B2C), não só B2C
 - [ ] Definir diferencial em uma frase clara (usar o já identificado no artigo como ponto de partida)
-- [ ] Decidir modelo de monetização considerando os dois segmentos de cliente
+- [x] Decidir modelo de monetização considerando os dois segmentos de cliente (B2C Freemium + B2B2C pago)
 
-**Decisão da equipe sobre o público (registrada em conversa):** em vez de escolher entre "só praticante" ou "só profissional", ficou definido um **segmento primário** (praticante autônomo — dor mais validada, linha que já vem do PI) com o **profissional como segmento de expansão/fase 2**, funcionando como segundo canal de receita e de distribuição, não como um segundo produto. A proposta de valor central segue única: "democratizar a supervisão postural em tempo real".
-
-**Rascunho do Canvas adaptado (resumo — versão completa com os 9 blocos em [[Contexto-do-Projeto-PostVision]]):**
-- **Segmento primário:** praticantes autônomos [B2C]. **Segmento de expansão:** profissionais de educação física / personal trainers [B2B2C].
-- **Proposta de valor:** núcleo igual para os dois (correção em tempo real + relatório de evolução); camada extra para profissionais (dados objetivos para validar evolução de alunos à distância).
-- **Receita:** assinatura B2C (já prevista) + plano profissional B2B2C novo, com cuidado para não repetir a percepção de "preço fora da realidade" que os próprios personal trainers relatam sobre a concorrência.
-- **Parcerias:** academias/personal trainers/fisioterapeutas viram também canal de distribuição para o público B2C, não só clientes do plano profissional.
-- **Diferencial (do artigo):** correção postural em tempo real + estatísticas personalizadas de evolução — combinação que os concorrentes/projetos acadêmicos comparados não oferecem juntos.
-- **Pontos de atenção:** risco de desuso do app (retenção); priorizar validar o núcleo B2C antes de investir pesado no segmento de expansão.
+**Canvas fechado (resumo — versão completa com os 9 blocos em [[Contexto-do-Projeto-PostVision]]):**
+- **Segmentos:** B2B2C (personal trainers/profissionais de Educação Física) e B2C (praticantes autônomos).
+- **Proposta de valor:** correção postural em tempo real + alertas e relatórios de evolução; redução de risco de lesão; métricas objetivas para o profissional validar a evolução do aluno à distância.
+- **Receita:** Plano B2C **Freemium** + plano **B2B2C pago** (por licença/volume de alunos) para personal trainers — esse é quem sustenta a monetização principal.
+- **Parcerias:** empresas de tecnologia/IA, marcas fitness, influenciadores digitais, academias e personal trainers (papel duplo: cliente B2B2C e canal de distribuição).
+- **Pendência:** confirmar se a ordem B2B2C → B2C no Canvas é intencional (prioridade de segmento) ou só a ordem da ferramenta — ver observação em [[Contexto-do-Projeto-PostVision]].
 
 ---
 
 ## Módulo 3 · MVP
-_(conteúdo e atividades entram aqui quando o módulo chegar)_
+📎 Conteúdo da aula: [[Modulo-3-MVP]]
+
+**Atividades do módulo:**
+- [ ] Escolher o tipo de MVP mais adequado para testar a hipótese mais arriscada do PostVision (Landing Page, Teste Fumaça, Concierge, Mágico de Oz ou A/B)
+- [ ] Mapear a jornada do cliente para os dois segmentos (praticante B2C e profissional B2B2C) — dor, busca, primeiro contato, experimentação, continuidade
+- [ ] Identificar touchpoints de cada jornada e onde há risco de atrito/abandono
+- [ ] Transformar as observações da jornada em hipóteses de sucesso testáveis
+
+**Ideias iniciais para o MVP do PostVision:**
+- Como o app já tem protótipo técnico avançado (MediaPipe, CameraX etc. do PI), o MVP do Supernova pode ser mais sobre testar **interesse e disposição a pagar** do que sobre testar a tecnologia em si — ex.: Landing Page com os dois planos (Freemium B2C e B2B2C) para medir cliques/cadastros antes de validar preço.
+- Jornada do profissional (B2B2C) tende a ser mais consultiva — vale mapear separadamente da jornada do praticante autônomo (B2C), que deve ser mais direta/self-service.
+
+_(demais anotações da equipe: a preencher conforme o módulo for executado)_
 
 ---
 
 ## Módulo 4 · Marketing e Vendas
-_(conteúdo e atividades entram aqui quando o módulo chegar)_
+📎 Conteúdo da aula: [[Modulo-4-Marketing-e-Vendas]]
+
+**Atividades do módulo:**
+- [ ] Definir público prioritário para o funil inicial (B2C praticante ou B2B2C profissional?)
+- [ ] Montar funil de vendas simples (Topo/Meio/Fundo/Pós-venda) para o segmento escolhido
+- [ ] Mapear se a venda ao personal trainer é B2B (decisão mais consultiva, precisa de prova de ROI) e a venda ao praticante é B2C (mais rápida, emocional, sensível a mensagem)
+- [ ] Escolher canais coerentes com cada modelo de venda
+
+**Observação direta do material para o PostVision:** como o projeto tem dois públicos (B2C e B2B2C), a Videoaula 2 (Particularidades B2C/B2B/B2G) se aplica quase em espelho — vender para o praticante autônomo é B2C (decisão rápida, individual, sensível a preço/conveniência) e vender para o personal trainer é B2B (decisão mais racional, precisa de prova de valor/ROI, já que é ferramenta de trabalho). Vale desenhar dois funis diferentes, não um só.
+
+_(demais anotações da equipe: a preencher conforme o módulo for executado)_
 
 ---
 
-## Módulo 5 · Finanças Aplicada
-_(conteúdo e atividades entram aqui quando o módulo chegar)_
+## Módulo 5 · Finanças
+📎 Conteúdo da aula: [[Modulo-5-Financas]]
+
+**Atividades do módulo:**
+- [ ] Mapear custos fixos (servidores/hospedagem, equipe) e variáveis (processamento de IA por uso, suporte) do PostVision
+- [ ] Montar planilha simples de precificação com cenários (conservador/provável/otimista) para o plano B2B2C
+- [ ] Definir o gatilho de upgrade do plano Freemium B2C (o que é grátis vs. o que é pago)
+- [ ] Comparar o preço do plano B2B2C com referências de mercado (apps de treino para profissionais, plataformas de gestão de alunos)
+
+**Observação direta do material para o PostVision:** o Canvas já define o modelo (Freemium B2C + B2B2C pago), que é um modelo híbrido — o próprio material cita que "muitas startups de sucesso utilizam modelos híbridos" (ex.: iFood combina marketplace com publicidade). Vale aplicar a mesma lógica: usar o Freemium para crescer a base de usuários (dado valioso mesmo sem pagamento direto) e a assinatura B2B2C para sustentar a receita — assim como o personal trainer não deve sentir que está pagando "preço fora da realidade" (dor identificada na própria pesquisa de usuário do PostVision).
+
+_(demais anotações da equipe: a preencher conforme o módulo for executado)_
 
 ---
 
 ## Módulo 6 · Pitch
-_(conteúdo e atividades entram aqui quando o módulo chegar)_
+📎 Conteúdo da aula: [[Modulo-6-Pitch]]
+
+**Atividades do módulo:**
+- [ ] Definir a mensagem central do pitch (problema → solução → evidências → próximo passo)
+- [ ] Construir o hook de abertura conectado ao problema real (dado marcante, pergunta provocativa ou dor reconhecível)
+- [ ] Organizar a narrativa no formato Jornada do Herói (desafio → transformação → proposta)
+- [ ] Ensaiar e testar a apresentação com outras pessoas antes de gravar
+- [ ] Gravar o pitch em vídeo seguindo a sequência: roteiro → ensaio → teste técnico → gravação → revisão → envio
+
+**Ideias iniciais para o pitch do PostVision:**
+- **Hook candidato:** usar um dado marcante sobre lesão (ex.: LCA como ligamento mais lesionado no Brasil, ou o custo de uma hérnia de disco) conectado direto à dor de quem treina sem supervisão — já está documentado em [[Contexto-do-Projeto-PostVision]].
+- **Sequência problema → solução → evidências:** problema (treino sem supervisão por falta de tempo/dinheiro) → solução (correção postural em tempo real via MediaPipe) → evidências (pesquisa com 4 personas, diferencial frente aos 3 projetos acadêmicos comparados no artigo, Canvas com dois segmentos B2C/B2B2C já validado).
+- **Atenção ao tempo:** como o pitch tem limite de tempo, vale decidir se o vídeo foca no segmento B2C (praticante, mais fácil de explicar rápido) ou já apresenta os dois segmentos (B2C Freemium + B2B2C pago) — isso afeta a duração e a complexidade da narrativa.
+- **Ferramenta de gravação:** a equipe já tem Kanban no GitHub Projects e site institucional (Next.js/Vercel) — avaliar se vale gravar com compartilhamento de tela mostrando o app real funcionando (reforça "domínio do projeto", um dos critérios que avaliadores observam).
+
+_(demais anotações da equipe: a preencher conforme o módulo for executado)_

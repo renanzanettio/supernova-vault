@@ -11,6 +11,10 @@ Ponto de entrada do vault. Tudo que você precisa está linkado abaixo, você n�
 - [[Modulo-0-Conceitos-Startup]]
 - [[Modulo-1-Ideacao-e-Validacao]]
 - [[Modulo-2-Business-Model-Canvas]]
+- [[Modulo-3-MVP]]
+- [[Modulo-4-Marketing-e-Vendas]]
+- [[Modulo-5-Financas]]
+- [[Modulo-6-Pitch]]
 
 ## 💡 Projeto (PI)
 - [[Ideias-e-Atividades]] — brainstorm, decisões e tarefas do nosso projeto

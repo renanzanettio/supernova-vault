@@ -52,19 +52,20 @@ Dois segmentos: (1) praticantes autônomos que treinam sozinhos sem orientação
 Ver lista completa em [[Ideias-e-Atividades]] · Módulo 1 — já reconstruídas a partir da pesquisa de usuário feita no PI (entrevistas, personas, mapas de empatia). Destaque: insegurança de quem treina sozinho, alto custo de personal trainers como barreira, e valor do feedback em tempo real para gerar confiança.
 
 **Em que módulo/etapa estamos agora:**
-Módulo 2 (Business Model Canvas) — Módulo 1 já tem boa parte do trabalho aproveitado do Projeto Integrador (PI) da Fatec, mas ainda falta formalizar os 5 Porquês no formato Supernova.
+Módulo 6 (Pitch) — Canvas (Módulo 2) já fechado pela equipe; falta formalizar os 5 Porquês do Módulo 1, aplicar a precificação do Módulo 5 ao modelo de monetização, e agora estruturar e gravar o pitch.
 
 **Principais decisões já tomadas:**
 - Projeto vem de um PI já em andamento (não começou do zero no Supernova) — ver artefato, artigo e pesquisa de usuário originais em [[Contexto-do-Projeto-PostVision]].
 - Exercício-foco inicial do produto: agachamento.
 - Tecnologia de detecção de pose: MediaPipe.
-- A equipe decidiu **adaptar** o Business Model Canvas acadêmico (feito para o PI) à trilha Supernova, em vez de usar o Canvas original como está — principalmente para incluir o segundo segmento de cliente (profissionais) revelado pela pesquisa de usuário.
+- Canvas do Supernova fechado com dois segmentos: **B2B2C** (personal trainers/profissionais) e **B2C** (praticantes autônomos) — ver [[Contexto-do-Projeto-PostVision]].
+- Modelo de monetização definido: **B2C em Freemium** + **B2B2C pago** (por licença/volume de alunos) como receita principal.
 
 **Próximos passos:**
-Formalizar os 5 Porquês (Módulo 1); revisar e fechar o Canvas adaptado com a equipe (Módulo 2); mapear concorrência considerando os dois segmentos de cliente; decidir modelo de monetização.
+Formalizar os 5 Porquês (Módulo 1); confirmar se a prioridade entre B2B2C e B2C no Canvas é intencional; mapear concorrência dos dois segmentos (Módulo 2); mapear jornada e MVP para cada público (Módulo 3); desenhar funis de venda separados B2C/B2B (Módulo 4); definir gatilho de upgrade do Freemium e precificar o plano B2B2C (Módulo 5); estruturar hook + narrativa e gravar o vídeo pitch (Módulo 6).
 
 ---
 
-📎 Para detalhes de conteúdo de cada aula, ver [[Modulo-0-Conceitos-Startup]], [[Modulo-1-Ideacao-e-Validacao]] e [[Modulo-2-Business-Model-Canvas]].
+📎 Para detalhes de conteúdo de cada aula, ver [[Modulo-0-Conceitos-Startup]], [[Modulo-1-Ideacao-e-Validacao]], [[Modulo-2-Business-Model-Canvas]], [[Modulo-3-MVP]], [[Modulo-4-Marketing-e-Vendas]], [[Modulo-5-Financas]] e [[Modulo-6-Pitch]].
 📎 Para o brainstorm e as tarefas do projeto, ver [[Ideias-e-Atividades]].
 📎 Para o contexto completo do projeto PostVision (problema, público, pesquisa, tecnologia, Canvas), ver [[Contexto-do-Projeto-PostVision]].

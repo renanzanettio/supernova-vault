@@ -1,7 +1,6 @@
-
 # Contexto do Projeto · PostVision
 
-📎 Documentos originais: [[PostVision-Artefato-PI.pdf]] · [[PostVision-Artigo-Cientifico.pdf]] · [[PostVision-Pesquisa-Usuario.pdf]]
+📎 Documentos originais: [[PostVision-Artefato-PI.pdf]] · [[PostVision-Artigo-Cientifico.pdf]] · [[PostVision-Pesquisa-Usuario.pdf]] · [[PostVision-Canvas-Atual.pdf]]
 
 > Esta página reúne tudo que já existe do Projeto Integrador (PI) da Fatec Registro e serve de base para o projeto que a equipe vai construir/adaptar dentro da trilha Sebrae Supernova. Partes marcadas como "a definir" ainda não foram fechadas pela equipe.
 
@@ -163,68 +162,89 @@ Este é o Canvas registrado no artefato do PI, usado como ponto de partida:
 
 ---
 
-## Business Model Canvas · rascunho adaptado para o Supernova
+## Business Model Canvas · versão atual (Supernova)
 
-> ✏️ **Decisão da equipe (registrada em conversa):** em vez de escolher entre "só praticante" ou "só profissional", o Canvas adota **um segmento primário** (praticante autônomo, que é a dor mais validada e a linha que já vem do PI) e trata o **profissional como segmento de expansão / segundo canal de receita**, não como um segundo produto. A proposta de valor central continua sendo uma só: "democratizar a supervisão postural em tempo real" — o profissional é uma forma de monetizar e escalar essa mesma proposta, não um problema diferente a resolver. Revisar e ajustar durante o Módulo 2 (ver [[Modulo-2-Business-Model-Canvas]] para o conteúdo da aula).
+📎 Canvas original (imagem/ferramenta): [[PostVision-Canvas-Atual.pdf]]
 
-### Os 9 blocos
+> ✅ **Este Canvas já foi fechado pela equipe** — não é mais rascunho. Ele parte da mesma decisão discutida anteriormente (um segmento primário + um segmento de expansão, em vez de escolher só um lado), mas a equipe formalizou os detalhes à própria maneira ao montá-lo na ferramenta. Abaixo, os 9 blocos exatamente como estão no Canvas, mais algumas observações de leitura.
 
-**1. Segmentos de clientes**
-- **Primário:** praticantes autônomos — pessoas que treinam sozinhas sem orientação profissional (iniciantes, restrição orçamentária, histórico de lesão, idade mais avançada). Ex.: Isabella, Lucas, "Fulana".
-- **Expansão (fase 2):** profissionais de educação física / personal trainers, que usam o app como ferramenta de trabalho com seus alunos. Ex.: "Betrano".
+### Os 9 blocos (conforme o Canvas da equipe)
+
+**1. Segmento de mercado**
+- **B2B2C:** personal trainers e profissionais de Educação Física.
+- **B2C:** usuários que praticam exercícios sem auxílio de profissional.
 
 **2. Proposta de valor**
-- Núcleo (vale para os dois segmentos): correção postural em tempo real via câmera do celular, com alertas imediatos e relatório de evolução — reduz o risco de lesão e a dependência de supervisão presencial cara.
-- Camada extra para o segmento de expansão: dados objetivos (gráficos, métricas) que ajudam o profissional a validar a evolução do aluno e a corrigir postura à distância — o app dá ao personal trainer uma capacidade que ele hoje não tem sozinho.
+- Correção postural em tempo real pela câmera do celular, com alertas e relatórios de evolução.
+- Redução do risco de lesões e da dependência de supervisão presencial cara.
+- Métricas e gráficos objetivos para acompanhamento e validação do aluno à distância.
 
 **3. Canais**
-- App mobile, website institucional, marketing digital (redes sociais, conteúdo sobre prevenção de lesão) — canal principal para o praticante autônomo.
-- Canal de expansão: contato direto com academias, personal trainers e fisioterapeutas (parcerias) — já indicado como oportunidade na SWOT acadêmica.
+- Marketing digital e redes sociais (foco em prevenção de lesões).
+- Parcerias diretas com academias e personal trainers.
 
-**4. Relacionamento com cliente**
-- Praticante: suporte contínuo pelo app, notificação push, e-mail, redes sociais.
-- Profissional: relacionamento mais próximo/consultivo — o personal trainer que assina se torna também um canal de distribuição (cada personal pode trazer vários alunos usando o app), então vale tratá-lo quase como um parceiro, não só como assinante.
+**4. Relacionamento com o cliente**
+- Suporte e notificações push automatizados no app.
+- Retenção via histórico contínuo de evolução.
+- Atendimento próximo e consultivo para personal trainers.
 
-**5. Fontes de receita**
-- Assinatura mensal/anual do praticante autônomo (plano B2C, como já estava no Canvas acadêmico).
-- **Novo:** plano profissional/B2B2C para personal trainers, com preço mais alto (ferramenta de trabalho, não gasto pessoal) e possivelmente por número de alunos monitorados — a definir com a equipe.
-- Atenção: personal trainers já reclamam de preços "fora da realidade" cobrados por outros profissionais — cuidado para o plano B2B2C do PostVision não cair nessa mesma percepção.
+**5. Fontes de renda**
+- Plano B2B2C para personal trainers (por licença ou volume de alunos).
+- Plano B2C Freemium.
 
-**6. Recursos-chave** *(sem mudança relevante em relação ao Canvas acadêmico)*
-Equipe técnica, infraestrutura de computação, banco de dados de imagens/vídeos, softwares e frameworks, hardware para testes.
+**6. Recursos-chave**
+- Equipe técnica e desenvolvedores.
+- Infraestrutura de nuvem e banco de dados visual.
+- Algoritmos de Visão Computacional (MediaPipe).
 
-**7. Atividades-chave** *(sem mudança relevante)*
-Desenvolvimento contínuo do software, coleta/processamento de dados, desenvolvimento de algoritmos de Visão Computacional, teste e validação, design de interface, manutenção.
+**7. Atividades-chave**
+- Desenvolvimento do software e algoritmos de pose tracking.
+- Processamento de dados e testes com os exercícios.
+- Design de interface (UI/UX) e manutenção do app.
 
-**8. Parcerias-chave**
-- Empresas de tecnologia/IA, empresas do ramo fitness, influenciadores fitness (já previstos).
-- **Novo, ligado à expansão:** academias, personal trainers e fisioterapeutas como parceiros de distribuição — não só como clientes, mas como canal para chegar a mais praticantes autônomos.
+**8. Parceiros-chave**
+- Empresas de tecnologia/IA e marcas do meio fitness.
+- Influenciadores digitais da área de saúde/treino.
+- Academias e personal trainers.
 
-**9. Estrutura de custos** *(sem mudança relevante)*
-Hospedagem de aplicativo e IA (nuvem), marketing e publicidade. Vale reavaliar se o segmento de expansão (profissional) traz custo adicional relevante (ex.: suporte consultivo, dashboards extras).
+**9. Estrutura de custos**
+- Servidores, hospedagem e processamento de IA em nuvem.
+- Investimento em marketing e aquisição de clientes (CAC).
+- Suporte e infraestrutura para dashboards do plano profissional.
+
+### O que mudou em relação ao Canvas acadêmico (PI)
+- **Segmentação explícita em dois públicos** (B2B2C e B2C), em vez de um só segmento genérico de "praticantes/atletas amadores".
+- **Modelo de receita redesenhado:** o plano B2C agora é **Freemium** (gratuito com upgrade), e quem sustenta a receita principal é o **plano B2B2C** vendido a personal trainers — diferente da ideia inicial de assinatura paga nos dois lados. Isso resolve bem o risco de objeção de preço no público autônomo (usar o freemium para crescer a base) e concentra a monetização onde há maior disposição a pagar (profissional, ferramenta de trabalho).
+- **Parcerias-chave ganham papel duplo:** academias e personal trainers aparecem tanto como parceiros de distribuição quanto como o próprio cliente B2B2C.
+- **Relacionamento com cliente diferenciado por segmento:** automatizado/self-service para o praticante (push, histórico), consultivo para o profissional.
+- **Estrutura de custos já prevê o custo específico do plano profissional** (suporte e infraestrutura de dashboards).
+
+> 💬 **Ponto que vale confirmar com a equipe:** o Canvas lista o segmento B2B2C antes do B2C. Se isso for só a ordem da ferramenta, não muda nada — mas se for intencional (ex.: decidiram priorizar o profissional como entrada principal, e não mais o praticante autônomo como "primário"), vale atualizar essa leitura no pitch e no MVP também, já que a direção discutida antes era o oposto (praticante como núcleo, profissional como expansão).
 
 ### Concorrência a mapear no Módulo 2 (Videoaula 2 — Análise de Concorrência)
 - Direta: apps de treino já consolidados (citados como ameaça na SWOT), tanto os voltados ao praticante final quanto eventuais plataformas usadas por personal trainers para acompanhar alunos.
 - Indireta/acadêmica: os três projetos citados no Estado da Arte do artigo (Gonçalves et al., Passos/POSEXAU, Yang e Chen/Pose Trainer) — nenhum comercial ainda, mas mostram o "estado da técnica" e nenhum combina tempo real + estatísticas de evolução.
 
 ### Pontos de atenção levantados pela pesquisa
-- Risco de **desuso do app** (churn) após o período inicial → o bloco de relacionamento/retenção (histórico de evolução, alertas contínuos) importa tanto quanto a aquisição de clientes.
-- O segmento de expansão só deve ser priorizado depois que o núcleo B2C estiver validado — tratar como "fase 2" evita diluir o foco do pitch e do MVP.
+- Risco de **desuso do app** (churn) após o período inicial — o bloco de relacionamento/retenção (histórico de evolução, alertas contínuos) importa tanto quanto a aquisição de clientes.
+- Modelo Freemium no B2C ajuda a crescer a base de usuários, mas precisa de um gatilho claro de upgrade — vale definir isso como próximo passo (o que é grátis vs. o que é pago no plano B2C?).
 
 ---
 
 ## Estado atual e próximos passos
 
-**Em que módulo/etapa estamos agora:** Módulo 2 (Business Model Canvas) da trilha Supernova — com Módulo 1 (Ideação e Validação) já parcialmente coberto pela pesquisa de usuário feita no PI (personas, mapas de empatia, entrevistas), mas ainda sem os 5 Porquês formalizados nem hipóteses de validação redigidas no formato Supernova.
+**Em que módulo/etapa estamos agora:** Módulo 5 (Finanças) da trilha Supernova — Módulos 1 a 4 já cobertos em algum grau; o Canvas (Módulo 2) já está fechado pela equipe na ferramenta própria. Falta formalizar os 5 Porquês no formato Supernova (Módulo 1) e aplicar os exercícios de precificação do Módulo 5 ao modelo Freemium + B2B2C.
 
 **Principais decisões já tomadas:**
 - Exercício-foco inicial: agachamento.
 - Tecnologia de detecção de pose: MediaPipe (não OpenPose).
-- Dois segmentos de cliente identificados pela pesquisa (praticantes autônomos e profissionais), mesmo que o Canvas acadêmico ainda não os separe.
-- Equipe decidiu adaptar/atualizar o Canvas para a trilha Supernova em vez de usar o Canvas acadêmico tal como está.
+- Dois segmentos de cliente identificados pela pesquisa (praticantes autônomos / B2C e profissionais / B2B2C) — já formalizados no Canvas.
+- Canvas adaptado ao Supernova concluído: B2C em Freemium, B2B2C (personal trainers) como plano pago principal.
 
 **Próximos passos sugeridos:**
 - Formalizar os 5 Porquês e as hipóteses de validação no Módulo 1 (ver checklist em [[Ideias-e-Atividades]]).
-- Revisar e fechar o Canvas adaptado (rascunho acima) com a equipe.
+- Confirmar com a equipe se a ordem B2B2C → B2C no Canvas reflete prioridade real ou é só a ordem da ferramenta (ver observação na seção do Canvas acima).
 - Levar o segmento "profissionais" para a Videoaula 2 (Análise de Concorrência) e mapear concorrentes B2B2C, não só B2C.
+- Definir o gatilho de upgrade do plano Freemium (o que é grátis vs. pago no B2C) usando a lógica de precificação do Módulo 5.
+- Aplicar a planilha de custos fixos/variáveis (Módulo 5) à estrutura de custos do Canvas (servidores/IA, marketing/CAC, suporte ao plano profissional).
 - Decidir modelo de monetização considerando os dois segmentos.
