@@ -124,16 +124,27 @@ _(demais anotações da equipe: a preencher conforme o módulo for executado)_
 ---
 
 ## Módulo 6 · Pitch
-📎 Conteúdo da aula: [[Modulo-6-Pitch]]
+📎 Conteúdo da aula: [[Modulo-6-Pitch]] · Relatório da live: [[Live-Modulo6-Pitch-Relatorio]] · Roteiro aplicado ao PostVision: [[Roteiro-Pitch-PostVision]]
 
 **Atividades do módulo:**
+- [x] Assistir à live sobre pitch e extrair dicas aplicáveis (ver relatório)
+- [x] Montar primeiro rascunho do roteiro de pitch bloco a bloco
 - [ ] Definir a mensagem central do pitch (problema → solução → evidências → próximo passo)
 - [ ] Construir o hook de abertura conectado ao problema real (dado marcante, pergunta provocativa ou dor reconhecível)
 - [ ] Organizar a narrativa no formato Jornada do Herói (desafio → transformação → proposta)
+- [ ] Decidir se o pitch foca só no B2C ou apresenta os dois segmentos (ver pendência no roteiro)
 - [ ] Ensaiar e testar a apresentação com outras pessoas antes de gravar
 - [ ] Gravar o pitch em vídeo seguindo a sequência: roteiro → ensaio → teste técnico → gravação → revisão → envio
 
-**Ideias iniciais para o pitch do PostVision:**
+**Principais dicas da live que valem para o PostVision (resumo — relatório completo em [[Live-Modulo6-Pitch-Relatorio]]):**
+- Storytelling = mostrar múltiplos ângulos da mesma dor (ex.: ângulo saúde/segurança + ângulo do profissional que não consegue corrigir postura à distância) — não só um ângulo.
+- Nunca falar mal de concorrente — só "como eu faço melhor". Vale usar a comparação já pronta no artigo (Gonçalves et al., Passos/POSEXAU, Yang e Chen) em vez de citar concorrentes comerciais.
+- Não jogar o Canvas ou prints cheios de texto na tela — explicar com as próprias palavras.
+- Nunca abrir com "Então" nem fechar com "É isso" — abrir no hook, fechar com chamada para ação.
+- Testar o pitch com pessoas fora do time antes de gravar (a live sugere literalmente "o tio da padaria").
+- Mostrar o app funcionando (tela real) conta mais pontos de credibilidade do que um deck só com texto.
+
+**Ideias iniciais para o pitch do PostVision (ver roteiro completo em [[Roteiro-Pitch-PostVision]]):**
 - **Hook candidato:** usar um dado marcante sobre lesão (ex.: LCA como ligamento mais lesionado no Brasil, ou o custo de uma hérnia de disco) conectado direto à dor de quem treina sem supervisão — já está documentado em [[Contexto-do-Projeto-PostVision]].
 - **Sequência problema → solução → evidências:** problema (treino sem supervisão por falta de tempo/dinheiro) → solução (correção postural em tempo real via MediaPipe) → evidências (pesquisa com 4 personas, diferencial frente aos 3 projetos acadêmicos comparados no artigo, Canvas com dois segmentos B2C/B2B2C já validado).
 - **Atenção ao tempo:** como o pitch tem limite de tempo, vale decidir se o vídeo foca no segmento B2C (praticante, mais fácil de explicar rápido) ou já apresenta os dois segmentos (B2C Freemium + B2B2C pago) — isso afeta a duração e a complexidade da narrativa.

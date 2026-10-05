@@ -15,9 +15,11 @@ Ponto de entrada do vault. Tudo que você precisa está linkado abaixo, você n�
 - [[Modulo-4-Marketing-e-Vendas]]
 - [[Modulo-5-Financas]]
 - [[Modulo-6-Pitch]]
+- [[Live-Modulo6-Pitch-Relatorio]] — relatório da aula ao vivo sobre pitch, com dicas extras e Q&A
 
 ## 💡 Projeto (PI)
 - [[Ideias-e-Atividades]] — brainstorm, decisões e tarefas do nosso projeto
+- [[Roteiro-Pitch-PostVision]] — roteiro de pitch do PostVision, bloco a bloco
 
 ## 🎨 Diagramas
 - Pasta [[03-Diagramas]] — canvases do Excalidraw pra recriar/adaptar diagramas do curso (mapa de empatia, duplo diamante, etc.)
