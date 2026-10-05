@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
+                "file": "02-Projeto-PI/Roteiro-Pitch-PostVision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contexto-do-Projeto-PostVision"
+              "title": "Roteiro-Pitch-PostVision"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "3f361096e7773252",
   "lastOpenFiles": [
-    "02-Projeto-PI/PostVision-Artefato-PI.pdf",
+    "01-Conteudo-Modulos/Modulo-6-Pitch.md",
     "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
+    "02-Projeto-PI/PostVision-Artefato-PI.pdf",
     "02-Projeto-PI/Ideias-e-Atividades.md",
     "02-Projeto-PI/PostVision-Artigo-Cientifico.pdf",
     "02-Projeto-PI/PostVision-Pesquisa-Usuario.pdf",
