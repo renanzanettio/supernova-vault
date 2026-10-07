@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projeto-PI/Roteiro-Pitch-PostVision.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro-Pitch-PostVision"
+              "title": "Home"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "3f361096e7773252",
   "lastOpenFiles": [
+    "02-Projeto-PI/Roteiro-Pitch-PostVision.md",
     "01-Conteudo-Modulos/Modulo-6-Pitch.md",
     "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
     "02-Projeto-PI/PostVision-Artefato-PI.pdf",
@@ -246,7 +247,6 @@
     "Laboratório de Praticas/slides-apresentacao.excalidraw.md",
     "Laboratório de Praticas/Reunião 27-08.md",
     "Laboratório de Praticas/projeto-lp.excalidraw.md",
-    "Integração e Entrega Contínua/Aula 03 - Github Actions.md",
-    "Estatística Aplicada/Aula 04 -.md"
+    "Integração e Entrega Contínua/Aula 03 - Github Actions.md"
   ]
 }
