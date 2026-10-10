@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Contexto-do-Projeto-PostVision"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "3f361096e7773252",
   "lastOpenFiles": [
+    "Home.md",
     "02-Projeto-PI/Roteiro-Pitch-PostVision.md",
     "01-Conteudo-Modulos/Modulo-6-Pitch.md",
     "02-Projeto-PI/Contexto-do-Projeto-PostVision.md",
@@ -215,7 +216,6 @@
     "02-Projeto-PI/PostVision-Pesquisa-Usuario.pdf",
     "01-Conteudo-Modulos/Modulo-0-Conceitos-Startup.md",
     "00-Contexto/Contexto-Geral.md",
-    "Home.md",
     "01-Conteudo-Modulos/Modulo-2-Business-Model-Canvas.md",
     "01-Conteudo-Modulos/Slides/Mod2-Videoaula5-DeepTech.pdf",
     "01-Conteudo-Modulos/Slides/Mod2-Videoaula4-Bioeconomia.pdf",

@@ -114,19 +114,19 @@ Segurança e autonomia na prevenção de lesões durante o treino, por meio de:
 
 **Stack técnica:**
 
-| Camada | Tecnologia |
-|---|---|
-| App mobile | Kotlin + Jetpack Compose (Material Design 3), Min SDK 24 / Target SDK 35 / Compile SDK 36 |
-| Captura de imagem | CameraX 1.5.0 |
-| Detecção de pose | **MediaPipe** 0.10.0 (API de Pose Detection — landmarks do corpo) |
-| Navegação | Navigation 2.7.5 |
-| Comunicação com backend | Retrofit 2.9.0 (cliente HTTP) |
-| Dados JSON | Gson 2.10.1 |
-| Autenticação | JWT 2.0.2 + OAuth 2.0 |
-| Backend | Node.js / Express, hospedado no Render |
-| Banco de dados | MongoDB Atlas (NoSQL, orientado a documentos — coleções: users, exercises, sessions, tasks, notifications) |
-| Site institucional da equipe | React 18.2 + Next.js + Tailwind CSS, hospedado na Vercel, formulário via EmailJS |
-| Gestão de projeto | Kanban no GitHub Projects |
+| Camada                       | Tecnologia                                                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| App mobile                   | Kotlin + Jetpack Compose (Material Design 3), Min SDK 24 / Target SDK 35 / Compile SDK 36                  |
+| Captura de imagem            | CameraX 1.5.0                                                                                              |
+| Detecção de pose             | **MediaPipe** 0.10.0 (API de Pose Detection — landmarks do corpo)                                          |
+| Navegação                    | Navigation 2.7.5                                                                                           |
+| Comunicação com backend      | Retrofit 2.9.0 (cliente HTTP)                                                                              |
+| Dados JSON                   | Gson 2.10.1                                                                                                |
+| Autenticação                 | JWT 2.0.2 + OAuth 2.0                                                                                      |
+| Backend                      | Node.js / Express, hospedado no Render                                                                     |
+| Banco de dados               | MongoDB Atlas (NoSQL, orientado a documentos — coleções: users, exercises, sessions, tasks, notifications) |
+| Site institucional da equipe | React 18.2 + Next.js + Tailwind CSS, hospedado na Vercel, formulário via EmailJS                           |
+| Gestão de projeto            | Kanban no GitHub Projects                                                                                  |
 
 > **Nota técnica:** a detecção de pose usada hoje é exclusivamente **MediaPipe** (o artigo, na seção de Estado da Arte, menciona "OpenPose" ao comparar com o projeto de Yang e Chen — mas isso é sobre o projeto comparado, não sobre o PostVision; a tecnologia usada de fato pela equipe é o MediaPipe, confirmado pela equipe).
 
